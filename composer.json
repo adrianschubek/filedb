@@ -1,0 +1,19 @@
+{
+    "name": "adrianschubek/filedb",
+    "description": "Single file database",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian Schubek",
+            "email": "adrian.schubek@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "adrianschubek\\": "src/"
+        }
+    },
+    "require": {
+        "adrianschubek/structures": "dev-master"
+    }
+}
