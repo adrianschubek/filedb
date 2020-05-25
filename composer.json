@@ -12,8 +12,5 @@
         "psr-4": {
             "adrianschubek\\": "src/"
         }
-    },
-    "require": {
-        "adrianschubek/structures": "dev-master"
     }
 }
